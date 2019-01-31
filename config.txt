@@ -1,4 +1,4 @@
-token= NTQwNjYzNTgzNjIxNTEzMjIx.DzULtw.JMr3vZ7-xO-NStTKV-yfNOA18lQ
+token= NTQwNjYzNTgzNjIxNTEzMjIx.DzUSjQ.kY7heoOjb_LRbUXgP-hNexLiz9w
 owner= 444918581659172864 
 prefix= M
 game= Mplay | Mhelp
