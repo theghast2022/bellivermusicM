@@ -1,6 +1,6 @@
 token= NTQwNjYzNTgzNjIxNTEzMjIx.DzUSjQ.kY7heoOjb_LRbUXgP-hNexLiz9w
 owner= 444918581659172864 
-prefix= M
-game= Mplay | Mhelp
+prefix= 1
+game= 1play | 1help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
